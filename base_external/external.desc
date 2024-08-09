@@ -1,2 +1,2 @@
-name: aesd_assignments
-description: AESD-ASSIGNMENTS for buildroot
+name: project_base
+description: Base customization for project
